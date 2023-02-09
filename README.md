@@ -25,7 +25,6 @@
 
 <br>
 
-## 링크
-### ![토픽기록](https://github.com/selab-hs/selab-study-topic-note/wiki)
+### [토픽기록](https://github.com/selab-hs/selab-study-topic-note/wiki)
 
 ---
