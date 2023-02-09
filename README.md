@@ -16,15 +16,10 @@
 
 ### 🤙 RULE
 
+### [토픽기록](https://github.com/selab-hs/selab-study-topic-note/wiki)
 - 주 3회 이상 모여 모의 면접 진행
 - 토픽 질문 내용 정리 피드백 열심히하기
 - 발표 내용 정리해서 기록하기
 - 기록 담당은 돌아가면서 진행
 - wiki에 내용 기록하기
----
-
-<br>
-
-### [토픽기록](https://github.com/selab-hs/selab-study-topic-note/wiki)
-
 ---
