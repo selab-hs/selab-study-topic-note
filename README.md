@@ -22,3 +22,11 @@
 - 기록 담당은 돌아가면서 진행
 - wiki에 내용 기록하기
 ---
+
+<br>
+
+---
+
+## https://github.com/selab-hs/selab-study-topic-note/wiki
+
+---
